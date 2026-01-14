@@ -11,10 +11,12 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshu110011/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/himanshu110011/leetcode/tree/master/0053-maximum-subarray) |
+| [1539-kth-missing-positive-number](https://github.com/himanshu110011/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshu110011/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/himanshu110011/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
