@@ -12,6 +12,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshu110011/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/himanshu110011/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/himanshu110011/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/himanshu110011/leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/himanshu110011/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0088-merge-sorted-array) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshu110011/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/himanshu110011/leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/himanshu110011/leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/himanshu110011/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
