@@ -4,7 +4,7 @@ class Solution {
 
         for (int i = 0; i < nums.length; i++) {
             if (i > maxReach) {
-                return false;   // cannot reach this index
+                return false;   
             }
             maxReach = Math.max(maxReach, i + nums[i]);
         }
