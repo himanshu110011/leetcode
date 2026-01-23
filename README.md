@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/himanshu110011/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/himanshu110011/leetcode/tree/master/0009-palindrome-number) |
+| [0263-ugly-number](https://github.com/himanshu110011/leetcode/tree/master/0263-ugly-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/himanshu110011/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 ## Array
 |  |
