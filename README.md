@@ -21,6 +21,7 @@
 | [0075-sort-colors](https://github.com/himanshu110011/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/himanshu110011/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/himanshu110011/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/himanshu110011/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/himanshu110011/leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/himanshu110011/leetcode/tree/master/0704-binary-search) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshu110011/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/himanshu110011/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/himanshu110011/leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/himanshu110011/leetcode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -65,6 +67,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/himanshu110011/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/himanshu110011/leetcode/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/himanshu110011/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/himanshu110011/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -88,6 +91,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/himanshu110011/leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/himanshu110011/leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/himanshu110011/leetcode/tree/master/1051-height-checker) |
 ## Greedy
@@ -103,4 +107,8 @@
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/himanshu110011/leetcode/tree/master/2000-reverse-prefix-of-word) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/himanshu110011/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
