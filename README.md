@@ -27,6 +27,7 @@
 | [0137-single-number-ii](https://github.com/himanshu110011/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/himanshu110011/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/himanshu110011/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/himanshu110011/leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/himanshu110011/leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/himanshu110011/leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/himanshu110011/leetcode/tree/master/0704-binary-search) |
@@ -75,6 +76,7 @@
 | [0075-sort-colors](https://github.com/himanshu110011/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/himanshu110011/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/himanshu110011/leetcode/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/himanshu110011/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/himanshu110011/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/himanshu110011/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/himanshu110011/leetcode/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
