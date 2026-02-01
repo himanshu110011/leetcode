@@ -58,6 +58,7 @@
 | [0055-jump-game](https://github.com/himanshu110011/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshu110011/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanshu110011/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/himanshu110011/leetcode/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0125-valid-palindrome](https://github.com/himanshu110011/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/himanshu110011/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/himanshu110011/leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/himanshu110011/leetcode/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/himanshu110011/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/himanshu110011/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -115,6 +117,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/himanshu110011/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/himanshu110011/leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/himanshu110011/leetcode/tree/master/0392-is-subsequence) |
 | [2000-reverse-prefix-of-word](https://github.com/himanshu110011/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
