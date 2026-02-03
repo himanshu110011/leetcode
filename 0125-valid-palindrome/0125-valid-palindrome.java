@@ -7,7 +7,6 @@ class Solution {
             char c1 = s.charAt(left);
             char c2 = s.charAt(right);
 
-            // skip non-alphanumeric characters
             if (!Character.isLetterOrDigit(c1)) {
                 left++;
             } else if (!Character.isLetterOrDigit(c2)) {
