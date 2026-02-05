@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/himanshu110011/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/himanshu110011/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/himanshu110011/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/himanshu110011/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/himanshu110011/leetcode/tree/master/0263-ugly-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/himanshu110011/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -122,6 +123,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/himanshu110011/leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/himanshu110011/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/himanshu110011/leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/himanshu110011/leetcode/tree/master/0392-is-subsequence) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/himanshu110011/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/himanshu110011/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/himanshu110011/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/himanshu110011/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/himanshu110011/leetcode/tree/master/0217-contains-duplicate) |
