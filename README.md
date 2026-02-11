@@ -24,6 +24,7 @@
 | [0027-remove-element](https://github.com/himanshu110011/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/himanshu110011/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/himanshu110011/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/himanshu110011/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/himanshu110011/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/himanshu110011/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/himanshu110011/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -188,11 +189,13 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/himanshu110011/leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/himanshu110011/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/himanshu110011/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/himanshu110011/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/himanshu110011/leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/himanshu110011/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
