@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/himanshu110011/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/himanshu110011/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/himanshu110011/leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/himanshu110011/leetcode/tree/master/1051-height-checker) |
 ## Greedy
@@ -143,6 +144,7 @@
 | [0013-roman-to-integer](https://github.com/himanshu110011/leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/himanshu110011/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/himanshu110011/leetcode/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/himanshu110011/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/himanshu110011/leetcode/tree/master/0392-is-subsequence) |
 | [2000-reverse-prefix-of-word](https://github.com/himanshu110011/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
@@ -158,6 +160,7 @@
 | [0169-majority-element](https://github.com/himanshu110011/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/himanshu110011/leetcode/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/himanshu110011/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0387-first-unique-character-in-a-string](https://github.com/himanshu110011/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -205,4 +208,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/himanshu110011/leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/himanshu110011/leetcode/tree/master/0867-transpose-matrix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/himanshu110011/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
