@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/himanshu110011/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/himanshu110011/leetcode/tree/master/0263-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/himanshu110011/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/himanshu110011/leetcode/tree/master/0412-fizz-buzz) |
 | [2119-a-number-after-a-double-reversal](https://github.com/himanshu110011/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 ## Array
 |  |
@@ -147,6 +148,7 @@
 | [0125-valid-palindrome](https://github.com/himanshu110011/leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshu110011/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/himanshu110011/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/himanshu110011/leetcode/tree/master/0412-fizz-buzz) |
 | [2000-reverse-prefix-of-word](https://github.com/himanshu110011/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/himanshu110011/leetcode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/himanshu110011/leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/himanshu110011/leetcode/tree/master/0867-transpose-matrix) |
 ## Queue
 |  |
