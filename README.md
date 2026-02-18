@@ -95,6 +95,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshu110011/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/himanshu110011/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/himanshu110011/leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/himanshu110011/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/himanshu110011/leetcode/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/himanshu110011/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -148,6 +149,7 @@
 | [0058-length-of-last-word](https://github.com/himanshu110011/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/himanshu110011/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/himanshu110011/leetcode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/himanshu110011/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshu110011/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/himanshu110011/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/himanshu110011/leetcode/tree/master/0412-fizz-buzz) |
