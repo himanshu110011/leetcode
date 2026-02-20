@@ -4,7 +4,7 @@ class Solution {
         if (strs == null || strs.length == 0) 
             return "";
         
-        String prefix = strs[0];   // take first string
+        String prefix = strs[0];   
         
         for (int i = 1; i < strs.length; i++) {
             
