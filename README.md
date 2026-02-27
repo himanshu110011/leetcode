@@ -16,6 +16,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/himanshu110011/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/himanshu110011/leetcode/tree/master/0412-fizz-buzz) |
 | [2119-a-number-after-a-double-reversal](https://github.com/himanshu110011/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2413-smallest-even-multiple](https://github.com/himanshu110011/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Array
 |  |
 | ------- |
@@ -238,4 +239,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himanshu110011/leetcode/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/himanshu110011/leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
