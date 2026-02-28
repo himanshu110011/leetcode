@@ -12,6 +12,7 @@
 | [0069-sqrtx](https://github.com/himanshu110011/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/himanshu110011/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/himanshu110011/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/himanshu110011/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/himanshu110011/leetcode/tree/master/0263-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/himanshu110011/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/himanshu110011/leetcode/tree/master/0412-fizz-buzz) |
@@ -194,6 +195,7 @@
 | [0137-single-number-ii](https://github.com/himanshu110011/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/himanshu110011/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/himanshu110011/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/himanshu110011/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/himanshu110011/leetcode/tree/master/0260-single-number-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/himanshu110011/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
@@ -213,6 +215,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/himanshu110011/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/himanshu110011/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/himanshu110011/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/himanshu110011/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/himanshu110011/leetcode/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
