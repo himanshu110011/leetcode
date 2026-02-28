@@ -21,6 +21,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/himanshu110011/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/himanshu110011/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/himanshu110011/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2169-count-operations-to-obtain-zero](https://github.com/himanshu110011/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/himanshu110011/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/himanshu110011/leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/himanshu110011/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -244,6 +245,7 @@
 | [0054-spiral-matrix](https://github.com/himanshu110011/leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/himanshu110011/leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/himanshu110011/leetcode/tree/master/0867-transpose-matrix) |
+| [2169-count-operations-to-obtain-zero](https://github.com/himanshu110011/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 ## Queue
 |  |
 | ------- |
