@@ -17,6 +17,7 @@
 | [0326-power-of-three](https://github.com/himanshu110011/leetcode/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/himanshu110011/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/himanshu110011/leetcode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/himanshu110011/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/himanshu110011/leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/himanshu110011/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/himanshu110011/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
