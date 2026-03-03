@@ -185,6 +185,7 @@
 | [0392-is-subsequence](https://github.com/himanshu110011/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/himanshu110011/leetcode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/himanshu110011/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/himanshu110011/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [2000-reverse-prefix-of-word](https://github.com/himanshu110011/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/himanshu110011/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Stack
