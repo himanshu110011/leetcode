@@ -45,6 +45,7 @@
 | [0054-spiral-matrix](https://github.com/himanshu110011/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/himanshu110011/leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/himanshu110011/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/himanshu110011/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/himanshu110011/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/himanshu110011/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0088-merge-sorted-array) |
@@ -81,6 +82,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshu110011/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/himanshu110011/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/himanshu110011/leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/himanshu110011/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshu110011/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/himanshu110011/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/himanshu110011/leetcode/tree/master/0704-binary-search) |
@@ -263,6 +265,7 @@
 | [0048-rotate-image](https://github.com/himanshu110011/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/himanshu110011/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/himanshu110011/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/himanshu110011/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/himanshu110011/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/himanshu110011/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/himanshu110011/leetcode/tree/master/1672-richest-customer-wealth) |
