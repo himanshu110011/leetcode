@@ -1,17 +1,14 @@
 class Solution {
     public int countGoodSubstrings(String s) {
-        if(s.length()<3) return 0;
-        String str="";
-        int c=0;
-       for(int i=0;i<3;i++){
-        str+=s.charAt(i);
-       }
-       if(str.charAt(0)!=str.charAt(1) && str.charAt(1)!=str.charAt(2) && str.charAt(2)!=str.charAt(0)) c++;
-       for(int i=3;i<s.length();i++){
-        str+=s.charAt(i);
-        str=str.substring(1);
-       if(str.charAt(0)!=str.charAt(1) && str.charAt(1)!=str.charAt(2) && str.charAt(2)!=str.charAt(0)) c++;
-       } 
-       return c;
+        int count = 0;
+        for(int i = 0; i < s.length()-2; i++){
+            char a = s.charAt(i);
+            char b = s.charAt(i+1);
+            char c = s.charAt(i+2);
+
+            if(a!=b && b!=c && a!=c)
+                count++;
+        }
+        return count;
     }
 }
