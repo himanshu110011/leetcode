@@ -56,6 +56,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshu110011/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/himanshu110011/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/himanshu110011/leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/himanshu110011/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/himanshu110011/leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/himanshu110011/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/himanshu110011/leetcode/tree/master/0268-missing-number) |
@@ -85,6 +86,7 @@
 | [0069-sqrtx](https://github.com/himanshu110011/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/himanshu110011/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshu110011/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/himanshu110011/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/himanshu110011/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/himanshu110011/leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/himanshu110011/leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -292,6 +294,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/himanshu110011/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/himanshu110011/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
 |  |
@@ -314,4 +317,8 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/himanshu110011/leetcode/tree/master/0463-island-perimeter) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/himanshu110011/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
