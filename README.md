@@ -175,6 +175,7 @@
 | [0912-sort-an-array](https://github.com/himanshu110011/leetcode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/himanshu110011/leetcode/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/himanshu110011/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/himanshu110011/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | [1108-defanging-an-ip-address](https://github.com/himanshu110011/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/himanshu110011/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1859-sorting-the-sentence](https://github.com/himanshu110011/leetcode/tree/master/1859-sorting-the-sentence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/himanshu110011/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/himanshu110011/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/himanshu110011/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Stack
@@ -223,6 +225,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/himanshu110011/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/himanshu110011/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/himanshu110011/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/himanshu110011/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -323,4 +326,5 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshu110011/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/himanshu110011/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/himanshu110011/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
