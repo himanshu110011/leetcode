@@ -4,7 +4,7 @@ class Solution {
         for(int i=0;i<s.length();i++){
             char c=s.charAt(i);
             if(c=='#') {
-                if(!st.isEmpty()) st.pop();
+               if(!st.isEmpty()) st.pop();
             }
             else st.push(c);
         }
