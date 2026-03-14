@@ -214,6 +214,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/himanshu110011/leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/himanshu110011/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/himanshu110011/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/himanshu110011/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/himanshu110011/leetcode/tree/master/0844-backspace-string-compare) |
@@ -272,6 +273,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/himanshu110011/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/himanshu110011/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -306,6 +308,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/himanshu110011/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshu110011/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
