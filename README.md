@@ -81,6 +81,7 @@
 | [1672-richest-customer-wealth](https://github.com/himanshu110011/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/himanshu110011/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/himanshu110011/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2653-sliding-subarray-beauty](https://github.com/himanshu110011/leetcode/tree/master/2653-sliding-subarray-beauty) |
 ## Binary Search
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/himanshu110011/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/himanshu110011/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/himanshu110011/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2653-sliding-subarray-beauty](https://github.com/himanshu110011/leetcode/tree/master/2653-sliding-subarray-beauty) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -348,4 +350,5 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/himanshu110011/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/himanshu110011/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/himanshu110011/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2653-sliding-subarray-beauty](https://github.com/himanshu110011/leetcode/tree/master/2653-sliding-subarray-beauty) |
 <!---LeetCode Topics End-->
