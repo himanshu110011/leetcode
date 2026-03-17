@@ -64,6 +64,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/himanshu110011/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/himanshu110011/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/himanshu110011/leetcode/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/himanshu110011/leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshu110011/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/himanshu110011/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/himanshu110011/leetcode/tree/master/0704-binary-search) |
@@ -219,6 +220,7 @@
 | [0020-valid-parentheses](https://github.com/himanshu110011/leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/himanshu110011/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/himanshu110011/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/himanshu110011/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/himanshu110011/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/himanshu110011/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/himanshu110011/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -239,6 +241,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/himanshu110011/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/himanshu110011/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/himanshu110011/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/himanshu110011/leetcode/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/himanshu110011/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/himanshu110011/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2653-sliding-subarray-beauty](https://github.com/himanshu110011/leetcode/tree/master/2653-sliding-subarray-beauty) |
@@ -351,4 +354,8 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/himanshu110011/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/himanshu110011/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2653-sliding-subarray-beauty](https://github.com/himanshu110011/leetcode/tree/master/2653-sliding-subarray-beauty) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/himanshu110011/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
