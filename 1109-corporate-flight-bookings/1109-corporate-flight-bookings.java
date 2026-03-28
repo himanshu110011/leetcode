@@ -1,21 +1,20 @@
 class Solution {
     public int[] corpFlightBookings(int[][] bookings, int n) {
-        List<int[]> events=new ArrayList<>();
-        for(int[]b:bookings){
-            events.add(new int[]{b[0],b[2]});
-            events.add(new int[]{b[1]+1,-b[2]});
+       int [] diff=new int[n];
+       for(int[]b:bookings){
+        int st=b[0]-1;
+        int end=b[1]-1;
+        int seat=b[2];
+        diff[st]+=seat;
+        if(end+1<n){
+            diff[end+1]-=seat;
         }
-        Collections.sort(events,(a,b)->a[0]-b[0]);
-        int ans[]=new int[n];
-        int sum = 0;
-        int idx = 0;
-        for (int i = 1; i <= n; i++) {   
-            while (idx < events.size() && events.get(idx)[0] == i) {
-                sum += events.get(idx)[1];
-                idx++;
-            }
-            ans[i - 1] = sum;
-        }
-        return ans;
+       } 
+       int pre[]=new int[n];
+       pre[0]=diff[0];
+       for(int i=1;i<n;i++){
+        pre[i]=pre[i-1]+diff[i];
+       }
+       return pre;
     }
 }
