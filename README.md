@@ -93,6 +93,7 @@
 | [2559-count-vowel-strings-in-ranges](https://github.com/himanshu110011/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/himanshu110011/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2653-sliding-subarray-beauty](https://github.com/himanshu110011/leetcode/tree/master/2653-sliding-subarray-beauty) |
+| [2848-points-that-intersect-with-cars](https://github.com/himanshu110011/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 ## Binary Search
 |  |
 | ------- |
@@ -266,6 +267,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshu110011/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/himanshu110011/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2653-sliding-subarray-beauty](https://github.com/himanshu110011/leetcode/tree/master/2653-sliding-subarray-beauty) |
+| [2848-points-that-intersect-with-cars](https://github.com/himanshu110011/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -352,6 +354,7 @@
 | [1854-maximum-population-year](https://github.com/himanshu110011/leetcode/tree/master/1854-maximum-population-year) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/himanshu110011/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/himanshu110011/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2848-points-that-intersect-with-cars](https://github.com/himanshu110011/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 ## Trie
 |  |
 | ------- |
