@@ -1,6 +1,6 @@
 class Solution {
     public int maxDepth(String s) {
-        Stack<Character>st=new Stack<>();
+        Stack<Character> st=new Stack<>();
         int c=0;
         int max=0;
         for(int i=0;i<s.length();i++){
