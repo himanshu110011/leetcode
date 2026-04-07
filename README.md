@@ -72,6 +72,7 @@
 | [0682-baseball-game](https://github.com/himanshu110011/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/himanshu110011/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/himanshu110011/leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/himanshu110011/leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/himanshu110011/leetcode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/himanshu110011/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/himanshu110011/leetcode/tree/master/0912-sort-an-array) |
@@ -244,6 +245,7 @@
 | [0234-palindrome-linked-list](https://github.com/himanshu110011/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/himanshu110011/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/himanshu110011/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/himanshu110011/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/himanshu110011/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/himanshu110011/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/himanshu110011/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -401,5 +403,6 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/himanshu110011/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/himanshu110011/leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/himanshu110011/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
