@@ -12,6 +12,7 @@
 | [0069-sqrtx](https://github.com/himanshu110011/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/himanshu110011/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/himanshu110011/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/himanshu110011/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/himanshu110011/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/himanshu110011/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/himanshu110011/leetcode/tree/master/0263-ugly-number) |
@@ -213,6 +214,7 @@
 | [0058-length-of-last-word](https://github.com/himanshu110011/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/himanshu110011/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/himanshu110011/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/himanshu110011/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/himanshu110011/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/himanshu110011/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/himanshu110011/leetcode/tree/master/0344-reverse-string) |
