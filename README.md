@@ -391,6 +391,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/himanshu110011/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/himanshu110011/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshu110011/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -399,6 +400,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/himanshu110011/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/himanshu110011/leetcode/tree/master/0463-island-perimeter) |
@@ -424,6 +426,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/himanshu110011/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/himanshu110011/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshu110011/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -432,6 +435,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/himanshu110011/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/himanshu110011/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshu110011/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
