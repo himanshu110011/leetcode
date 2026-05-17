@@ -11,8 +11,8 @@ class Solution {
               st.pop();
             }
             else if(s.equals("D")){
-                int a=st.pop();
-                st.push(a);
+                int a=st.peek();
+                // st.push(a);
                 st.push(a*2);
             }else st.push(Integer.parseInt(s));
         }
