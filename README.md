@@ -91,6 +91,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshu110011/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/himanshu110011/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1854-maximum-population-year](https://github.com/himanshu110011/leetcode/tree/master/1854-maximum-population-year) |
+| [1920-build-array-from-permutation](https://github.com/himanshu110011/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/himanshu110011/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/himanshu110011/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/himanshu110011/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -358,6 +359,7 @@
 | [0682-baseball-game](https://github.com/himanshu110011/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/himanshu110011/leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/himanshu110011/leetcode/tree/master/0867-transpose-matrix) |
+| [1920-build-array-from-permutation](https://github.com/himanshu110011/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/himanshu110011/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 ## Queue
 |  |
