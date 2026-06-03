@@ -17,6 +17,7 @@
 | [0231-power-of-two](https://github.com/himanshu110011/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/himanshu110011/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/himanshu110011/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/himanshu110011/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/himanshu110011/leetcode/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/himanshu110011/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/himanshu110011/leetcode/tree/master/0412-fizz-buzz) |
@@ -475,4 +476,12 @@
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/himanshu110011/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/himanshu110011/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/himanshu110011/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/himanshu110011/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
