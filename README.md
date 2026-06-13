@@ -92,6 +92,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/himanshu110011/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshu110011/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/himanshu110011/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/himanshu110011/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/himanshu110011/leetcode/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/himanshu110011/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/himanshu110011/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -381,6 +382,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/himanshu110011/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/himanshu110011/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshu110011/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/himanshu110011/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/himanshu110011/leetcode/tree/master/1854-maximum-population-year) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/himanshu110011/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/himanshu110011/leetcode/tree/master/2574-left-and-right-sum-differences) |
