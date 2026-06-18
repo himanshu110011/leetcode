@@ -102,6 +102,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/himanshu110011/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2653-sliding-subarray-beauty](https://github.com/himanshu110011/leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2848-points-that-intersect-with-cars](https://github.com/himanshu110011/leetcode/tree/master/2848-points-that-intersect-with-cars) |
+| [3861-minimum-capacity-box](https://github.com/himanshu110011/leetcode/tree/master/3861-minimum-capacity-box) |
 ## Binary Search
 |  |
 | ------- |
