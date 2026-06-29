@@ -68,6 +68,7 @@
 | [0268-missing-number](https://github.com/himanshu110011/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/himanshu110011/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/himanshu110011/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/himanshu110011/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/himanshu110011/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/himanshu110011/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/himanshu110011/leetcode/tree/master/0463-island-perimeter) |
@@ -116,6 +117,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/himanshu110011/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/himanshu110011/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/himanshu110011/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/himanshu110011/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/himanshu110011/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/himanshu110011/leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/himanshu110011/leetcode/tree/master/0704-binary-search) |
@@ -162,6 +164,7 @@
 | [0283-move-zeroes](https://github.com/himanshu110011/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/himanshu110011/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/himanshu110011/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/himanshu110011/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/himanshu110011/leetcode/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/himanshu110011/leetcode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/himanshu110011/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -178,6 +181,7 @@
 | [0217-contains-duplicate](https://github.com/himanshu110011/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanshu110011/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/himanshu110011/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/himanshu110011/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/himanshu110011/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/himanshu110011/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -286,6 +290,7 @@
 | [0217-contains-duplicate](https://github.com/himanshu110011/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanshu110011/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/himanshu110011/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/himanshu110011/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/himanshu110011/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/himanshu110011/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/himanshu110011/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
