@@ -239,6 +239,7 @@
 | [0392-is-subsequence](https://github.com/himanshu110011/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/himanshu110011/leetcode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/himanshu110011/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0520-detect-capital](https://github.com/himanshu110011/leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/himanshu110011/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/himanshu110011/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/himanshu110011/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
