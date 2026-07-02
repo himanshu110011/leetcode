@@ -45,6 +45,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/himanshu110011/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/himanshu110011/leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/himanshu110011/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/himanshu110011/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/himanshu110011/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/himanshu110011/leetcode/tree/master/0054-spiral-matrix) |
@@ -135,6 +136,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/himanshu110011/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/himanshu110011/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/himanshu110011/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/himanshu110011/leetcode/tree/master/0070-climbing-stairs) |
@@ -151,6 +153,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/himanshu110011/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanshu110011/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/himanshu110011/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/himanshu110011/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/himanshu110011/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/himanshu110011/leetcode/tree/master/0086-partition-list) |
@@ -259,6 +262,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/himanshu110011/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/himanshu110011/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/himanshu110011/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshu110011/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshu110011/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -453,6 +457,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/himanshu110011/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/himanshu110011/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/himanshu110011/leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/himanshu110011/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
