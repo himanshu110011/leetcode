@@ -37,6 +37,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/himanshu110011/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/himanshu110011/leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/himanshu110011/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/himanshu110011/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Array
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/himanshu110011/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/himanshu110011/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/himanshu110011/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/himanshu110011/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/himanshu110011/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/himanshu110011/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2653-sliding-subarray-beauty](https://github.com/himanshu110011/leetcode/tree/master/2653-sliding-subarray-beauty) |
