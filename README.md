@@ -34,6 +34,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/himanshu110011/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/himanshu110011/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/himanshu110011/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/himanshu110011/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/himanshu110011/leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/himanshu110011/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Array
@@ -106,6 +107,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/himanshu110011/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/himanshu110011/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/himanshu110011/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/himanshu110011/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/himanshu110011/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/himanshu110011/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2653-sliding-subarray-beauty](https://github.com/himanshu110011/leetcode/tree/master/2653-sliding-subarray-beauty) |
