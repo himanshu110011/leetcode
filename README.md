@@ -26,6 +26,7 @@
 | [0507-perfect-number](https://github.com/himanshu110011/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/himanshu110011/leetcode/tree/master/0509-fibonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/himanshu110011/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/himanshu110011/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/himanshu110011/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/himanshu110011/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/himanshu110011/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -87,6 +88,7 @@
 | [1051-height-checker](https://github.com/himanshu110011/leetcode/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/himanshu110011/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/himanshu110011/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/himanshu110011/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/himanshu110011/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/himanshu110011/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/himanshu110011/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -511,4 +513,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/himanshu110011/leetcode/tree/master/0292-nim-game) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/himanshu110011/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
