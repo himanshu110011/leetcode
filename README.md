@@ -42,6 +42,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/himanshu110011/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/himanshu110011/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/himanshu110011/leetcode/tree/master/3024-type-of-triangle) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/himanshu110011/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Array
 |  |
 | ------- |
@@ -278,6 +279,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/himanshu110011/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/himanshu110011/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/himanshu110011/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/himanshu110011/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Stack
 |  |
 | ------- |
