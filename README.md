@@ -157,6 +157,7 @@
 | [0070-climbing-stairs](https://github.com/himanshu110011/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshu110011/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanshu110011/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/himanshu110011/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/himanshu110011/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/himanshu110011/leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -345,6 +346,7 @@
 | [0231-power-of-two](https://github.com/himanshu110011/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/himanshu110011/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/himanshu110011/leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/himanshu110011/leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/himanshu110011/leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/himanshu110011/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/himanshu110011/leetcode/tree/master/2351-first-letter-to-appear-twice) |
