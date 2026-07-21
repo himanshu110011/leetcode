@@ -283,6 +283,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/himanshu110011/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/himanshu110011/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/himanshu110011/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/himanshu110011/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/himanshu110011/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/himanshu110011/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Stack
@@ -309,6 +310,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/himanshu110011/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/himanshu110011/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/himanshu110011/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/himanshu110011/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -414,6 +416,7 @@
 | [0867-transpose-matrix](https://github.com/himanshu110011/leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/himanshu110011/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/himanshu110011/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2390-removing-stars-from-a-string](https://github.com/himanshu110011/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Queue
 |  |
 | ------- |
