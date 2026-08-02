@@ -7,8 +7,7 @@ class Solution {
             if(intervals[i][0]<lastend){
                 r++;
             }
-            else lastend = intervals[i][1];
-            
+            else lastend = intervals[i][1];   
         }
         return r;
     }
