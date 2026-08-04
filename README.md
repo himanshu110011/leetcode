@@ -92,6 +92,7 @@
 | [0704-binary-search](https://github.com/himanshu110011/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/himanshu110011/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/himanshu110011/leetcode/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/himanshu110011/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/himanshu110011/leetcode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/himanshu110011/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/himanshu110011/leetcode/tree/master/0912-sort-an-array) |
@@ -141,6 +142,7 @@
 | [0367-valid-perfect-square](https://github.com/himanshu110011/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/himanshu110011/leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/himanshu110011/leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/himanshu110011/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/himanshu110011/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshu110011/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
@@ -556,4 +558,8 @@
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/himanshu110011/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/himanshu110011/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
