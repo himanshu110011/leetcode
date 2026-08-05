@@ -87,6 +87,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/himanshu110011/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/himanshu110011/leetcode/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/himanshu110011/leetcode/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshu110011/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/himanshu110011/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/himanshu110011/leetcode/tree/master/0704-binary-search) |
@@ -142,6 +143,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/himanshu110011/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/himanshu110011/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/himanshu110011/leetcode/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/himanshu110011/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/himanshu110011/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/himanshu110011/leetcode/tree/master/0875-koko-eating-bananas) |
