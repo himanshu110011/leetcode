@@ -16,22 +16,20 @@
 class Solution {
     int preIdx = 0;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-       
-       return helper(preorder, inorder, 0, inorder.length-1);
-       
+        return helper(preorder, inorder, 0, inorder.length-1);
     }
-    public TreeNode helper(int[] preorder, int[] inorder,int left,int right){
+    public TreeNode helper(int[] preorder, int[] inorder, int left, int right){
         if(left > right) return null;
-        TreeNode root = new TreeNode(preorder[preIdx]);
-        int inIdx = Search(inorder, left, right, preorder[preIdx] );
+        TreeNode root = new TreeNode(preorder[preIdx]);   
+        int inIdx = search(inorder, left, right, preorder[preIdx]);
         preIdx++;
-        root.left =  helper( preorder,inorder,  left, inIdx-1);
+        root.left = helper( preorder, inorder, left, inIdx-1);
         root.right = helper( preorder, inorder, inIdx+1, right);
         return root;
     }
-    public int Search(int[] inorder,int left,int right, int val){
+    public int search(int[] inorder, int left, int right, int val){
         for(int i=left; i<=right; i++){
-            if(inorder[i] == val) return i;
+           if(inorder[i] == val) return i;
         }
         return -1;
     }
