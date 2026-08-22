@@ -14,24 +14,15 @@
  * }
  */
 class Solution {
+    HashSet<Integer> set = new HashSet<>();
     public boolean findTarget(TreeNode root, int k) {
-      
-    List<Integer> list = new ArrayList<>();
-        helper(root, list);
-        int l = 0;
-        int r = list.size()-1;
-        while(l<r){
-        if(list.get(l) + list.get(r) == k) return true;
-        else if(list.get(l) + list.get(r) < k) l++;
-        else r--;
-        }
-        return false;
+        
+        if(root == null) return false;
+
+        if(set.contains(k - root.val)) return true;
+
+        set.add(root.val);
+
+        return findTarget(root.left, k) || findTarget(root.right, k);
     }
-    void helper(TreeNode root, List<Integer> list){
-         if(root == null) return ;
-         helper(root.left, list);
-         list.add(root.val);
-         helper(root.right,  list);
-    }
-     
 }
