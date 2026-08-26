@@ -240,6 +240,7 @@
 | [0905-sort-array-by-parity](https://github.com/himanshu110011/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/himanshu110011/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/himanshu110011/leetcode/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/himanshu110011/leetcode/tree/master/1859-sorting-the-sentence) |
 | [3024-type-of-triangle](https://github.com/himanshu110011/leetcode/tree/master/3024-type-of-triangle) |
@@ -374,6 +375,7 @@
 | [0496-next-greater-element-i](https://github.com/himanshu110011/leetcode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshu110011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/himanshu110011/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1512-number-of-good-pairs](https://github.com/himanshu110011/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshu110011/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/himanshu110011/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -521,6 +523,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshu110011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -537,6 +540,7 @@
 | [0463-island-perimeter](https://github.com/himanshu110011/leetcode/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshu110011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -588,6 +592,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshu110011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/himanshu110011/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/himanshu110011/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -617,6 +622,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshu110011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/himanshu110011/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/himanshu110011/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
