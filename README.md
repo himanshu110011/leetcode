@@ -27,6 +27,7 @@
 | [0441-arranging-coins](https://github.com/himanshu110011/leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/himanshu110011/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/himanshu110011/leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/himanshu110011/leetcode/tree/master/1025-divisor-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/himanshu110011/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/himanshu110011/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/himanshu110011/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -193,6 +194,7 @@
 | [0392-is-subsequence](https://github.com/himanshu110011/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/himanshu110011/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/himanshu110011/leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/himanshu110011/leetcode/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -640,10 +642,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/himanshu110011/leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/himanshu110011/leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/himanshu110011/leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/himanshu110011/leetcode/tree/master/1025-divisor-game) |
 ## Geometry
 |  |
 | ------- |
@@ -676,4 +680,8 @@
 | [0078-subsets](https://github.com/himanshu110011/leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/himanshu110011/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/himanshu110011/leetcode/tree/master/0257-binary-tree-paths) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/himanshu110011/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
