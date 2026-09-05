@@ -1,45 +1,37 @@
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
 
-        ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
-
-        for (int i = 0; i < n; i++) {
-            graph.add(new ArrayList<>());
+        for(int i=0; i<n; i++){
+            adj.add(new ArrayList<>());
         }
 
-        for (int[] edge : edges) {
+        for(int edge[] : edges){
             int u = edge[0];
             int v = edge[1];
 
-            graph.get(u).add(v);
-            graph.get(v).add(u);
+            adj.get(u).add(v);
+            adj.get(v).add(u);
         }
+        
+        boolean vis[] = new boolean[adj.size()];
+        Queue<Integer> que = new ArrayDeque<>();
 
-        boolean[] visited = new boolean[n];
+        vis[source] = true;
+        que.offer(source);
 
-        return dfs(source, destination, graph, visited);
-    }
+        while(!que.isEmpty()){
+            int curr = que.poll();
 
-    public boolean dfs(int node, int destination,
-                       ArrayList<ArrayList<Integer>> graph,
-                       boolean[] visited) {
+            if(curr == destination) return true;
 
-        if (node == destination) {
-            return true;
-        }
-
-        visited[node] = true;
-
-        for (int neighbour : graph.get(node)) {
-
-            if (!visited[neighbour]) {
-
-                if (dfs(neighbour, destination, graph, visited)) {
-                    return true;
+            for(int neigh : adj.get(curr)){
+                if(!vis[neigh]){
+                    vis[neigh] = true;
+                    que.offer(neigh);
                 }
             }
         }
-
         return false;
     }
 }
