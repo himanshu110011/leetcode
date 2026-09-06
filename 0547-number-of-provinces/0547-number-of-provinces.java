@@ -13,30 +13,25 @@ class Solution {
             }
         }
 
-        boolean[] visited = new boolean[n];
+        boolean[] vis = new boolean[n];
+        Queue<Integer> que = new ArrayDeque<>();
         int provinces = 0;
-         for (int i = 0; i < n; i++) {
+        for(int i=0; i<n; i++){
+            if(!vis[i]){
+              provinces++;
+              que.offer(i);
+            }
+            while(!que.isEmpty()){
+                int curr = que.poll();
 
-            if (!visited[i]) {
-                provinces++;
-                dfs(i, adj, visited);
+                for(int nbr : adj.get(curr)){
+                    if(!vis[nbr]){
+                        vis[nbr] = true;
+                        que.offer(nbr);
+                    }
+                }
             }
         }
-
         return provinces;
-    }
-
-    public void dfs(int node,
-                    ArrayList<ArrayList<Integer>> adj,
-                    boolean[] visited) {
-
-        visited[node] = true;
-
-        for (int neighbour : adj.get(node)) {
-
-            if (!visited[neighbour]) {
-                dfs(neighbour, adj, visited);
-            }
-        }
     }
 }
