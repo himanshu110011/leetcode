@@ -142,6 +142,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/himanshu110011/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/himanshu110011/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/himanshu110011/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2596-check-knight-tour-configuration](https://github.com/himanshu110011/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2653-sliding-subarray-beauty](https://github.com/himanshu110011/leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2848-points-that-intersect-with-cars](https://github.com/himanshu110011/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3024-type-of-triangle](https://github.com/himanshu110011/leetcode/tree/master/3024-type-of-triangle) |
@@ -458,6 +459,7 @@
 | [0867-transpose-matrix](https://github.com/himanshu110011/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/himanshu110011/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/himanshu110011/leetcode/tree/master/1672-richest-customer-wealth) |
+| [2596-check-knight-tour-configuration](https://github.com/himanshu110011/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
 | ------- |
@@ -472,6 +474,7 @@
 | [1920-build-array-from-permutation](https://github.com/himanshu110011/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/himanshu110011/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/himanshu110011/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2596-check-knight-tour-configuration](https://github.com/himanshu110011/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Queue
 |  |
 | ------- |
@@ -537,6 +540,7 @@
 | [0841-keys-and-rooms](https://github.com/himanshu110011/leetcode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/himanshu110011/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2596-check-knight-tour-configuration](https://github.com/himanshu110011/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -557,6 +561,7 @@
 | [0841-keys-and-rooms](https://github.com/himanshu110011/leetcode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/himanshu110011/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2596-check-knight-tour-configuration](https://github.com/himanshu110011/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Sliding Window
 |  |
 | ------- |
