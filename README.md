@@ -65,6 +65,7 @@
 | [0046-permutations](https://github.com/himanshu110011/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/himanshu110011/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/himanshu110011/leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/himanshu110011/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/himanshu110011/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/himanshu110011/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/himanshu110011/leetcode/tree/master/0055-jump-game) |
@@ -688,6 +689,7 @@
 | [0039-combination-sum](https://github.com/himanshu110011/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/himanshu110011/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/himanshu110011/leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/himanshu110011/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/himanshu110011/leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/himanshu110011/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/himanshu110011/leetcode/tree/master/0257-binary-tree-paths) |
@@ -706,4 +708,8 @@
 | [0547-number-of-provinces](https://github.com/himanshu110011/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/himanshu110011/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/himanshu110011/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/himanshu110011/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
