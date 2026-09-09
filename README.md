@@ -115,6 +115,7 @@
 | [0905-sort-array-by-parity](https://github.com/himanshu110011/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/himanshu110011/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/himanshu110011/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/himanshu110011/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/himanshu110011/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/himanshu110011/leetcode/tree/master/1051-height-checker) |
@@ -459,6 +460,7 @@
 | [0200-number-of-islands](https://github.com/himanshu110011/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/himanshu110011/leetcode/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/himanshu110011/leetcode/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/himanshu110011/leetcode/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/himanshu110011/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/himanshu110011/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2596-check-knight-tour-configuration](https://github.com/himanshu110011/leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -564,6 +566,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshu110011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0841-keys-and-rooms](https://github.com/himanshu110011/leetcode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/himanshu110011/leetcode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/himanshu110011/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/himanshu110011/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Sliding Window
