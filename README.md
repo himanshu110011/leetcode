@@ -121,6 +121,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/himanshu110011/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/himanshu110011/leetcode/tree/master/1051-height-checker) |
 | [1109-corporate-flight-bookings](https://github.com/himanshu110011/leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1162-as-far-from-land-as-possible](https://github.com/himanshu110011/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/himanshu110011/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/himanshu110011/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/himanshu110011/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -203,6 +204,7 @@
 | [0509-fibonacci-number](https://github.com/himanshu110011/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/himanshu110011/leetcode/tree/master/0542-01-matrix) |
 | [1025-divisor-game](https://github.com/himanshu110011/leetcode/tree/master/1025-divisor-game) |
+| [1162-as-far-from-land-as-possible](https://github.com/himanshu110011/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 ## Two Pointers
 |  |
 | ------- |
@@ -464,6 +466,7 @@
 | [0542-01-matrix](https://github.com/himanshu110011/leetcode/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/himanshu110011/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/himanshu110011/leetcode/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/himanshu110011/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1572-matrix-diagonal-sum](https://github.com/himanshu110011/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/himanshu110011/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2596-check-knight-tour-configuration](https://github.com/himanshu110011/leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -571,6 +574,7 @@
 | [0841-keys-and-rooms](https://github.com/himanshu110011/leetcode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/himanshu110011/leetcode/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/himanshu110011/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1971-find-if-path-exists-in-graph](https://github.com/himanshu110011/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/himanshu110011/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Sliding Window
