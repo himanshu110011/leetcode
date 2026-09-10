@@ -136,6 +136,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshu110011/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/himanshu110011/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/himanshu110011/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1765-map-of-highest-peak](https://github.com/himanshu110011/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1854-maximum-population-year](https://github.com/himanshu110011/leetcode/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/himanshu110011/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/himanshu110011/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -469,6 +470,7 @@
 | [1162-as-far-from-land-as-possible](https://github.com/himanshu110011/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1572-matrix-diagonal-sum](https://github.com/himanshu110011/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/himanshu110011/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1765-map-of-highest-peak](https://github.com/himanshu110011/leetcode/tree/master/1765-map-of-highest-peak) |
 | [2596-check-knight-tour-configuration](https://github.com/himanshu110011/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -575,6 +577,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/himanshu110011/leetcode/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/himanshu110011/leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1765-map-of-highest-peak](https://github.com/himanshu110011/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/himanshu110011/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/himanshu110011/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Sliding Window
