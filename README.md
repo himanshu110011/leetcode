@@ -102,6 +102,7 @@
 | [0485-max-consecutive-ones](https://github.com/himanshu110011/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/himanshu110011/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/himanshu110011/leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshu110011/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/himanshu110011/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/himanshu110011/leetcode/tree/master/0704-binary-search) |
@@ -200,6 +201,7 @@
 | [0392-is-subsequence](https://github.com/himanshu110011/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/himanshu110011/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/himanshu110011/leetcode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/himanshu110011/leetcode/tree/master/0542-01-matrix) |
 | [1025-divisor-game](https://github.com/himanshu110011/leetcode/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
@@ -459,6 +461,7 @@
 | [0074-search-a-2d-matrix](https://github.com/himanshu110011/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/himanshu110011/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/himanshu110011/leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/himanshu110011/leetcode/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/himanshu110011/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/himanshu110011/leetcode/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/himanshu110011/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -561,6 +564,7 @@
 | [0200-number-of-islands](https://github.com/himanshu110011/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/himanshu110011/leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/himanshu110011/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/himanshu110011/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshu110011/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
