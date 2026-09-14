@@ -5,7 +5,7 @@ class Solution {
      return solve(n, dp);
     }
     public int solve(int n, int[] dp){
-        if(n <= 3) return n;
+        if(n < 2) return 1;
 
         if(dp[n] != -1) return dp[n];
 
