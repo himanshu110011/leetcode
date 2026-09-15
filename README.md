@@ -96,6 +96,7 @@
 | [0268-missing-number](https://github.com/himanshu110011/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/himanshu110011/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/himanshu110011/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/himanshu110011/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/himanshu110011/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/himanshu110011/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/himanshu110011/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -204,6 +205,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshu110011/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanshu110011/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/himanshu110011/leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/himanshu110011/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/himanshu110011/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/himanshu110011/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/himanshu110011/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -579,6 +581,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/himanshu110011/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/himanshu110011/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/himanshu110011/leetcode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/himanshu110011/leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/himanshu110011/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/himanshu110011/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/himanshu110011/leetcode/tree/master/0547-number-of-provinces) |
@@ -751,4 +754,12 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/himanshu110011/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/himanshu110011/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/himanshu110011/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
