@@ -16,6 +16,9 @@ class Solution {
         solve(nums, node + 1, list, l);
         l.remove(l.size() - 1);
 
-        solve(nums, node + 1, list, l);
+        int next = node + 1;
+        if(next < nums.length && nums[next] == nums[node]) next++;
+
+        solve(nums, next, list, l);
     }
 }
