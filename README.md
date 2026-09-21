@@ -117,6 +117,7 @@
 | [0724-find-pivot-index](https://github.com/himanshu110011/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/himanshu110011/leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/himanshu110011/leetcode/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/himanshu110011/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/himanshu110011/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/himanshu110011/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/himanshu110011/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -217,6 +218,7 @@
 | [0518-coin-change-ii](https://github.com/himanshu110011/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/himanshu110011/leetcode/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/himanshu110011/leetcode/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/himanshu110011/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/himanshu110011/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/himanshu110011/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/himanshu110011/leetcode/tree/master/1162-as-far-from-land-as-possible) |
