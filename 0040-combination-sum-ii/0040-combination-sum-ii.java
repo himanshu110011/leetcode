@@ -13,20 +13,13 @@ class Solution {
             list.add(new ArrayList<>(l));
             return;
         }
-        if(node == candidates.length) return;
-        
-        if(candidates[node] <= target){
-        l.add(candidates[node]);
-        solve(candidates, target - candidates[node], node + 1 , list, l);
+       for(int i=node; i<candidates.length; i++){
+        if(i > node && candidates[i] == candidates[i-1]) continue;
+        if(candidates[i] > target) break;
+
+        l.add(candidates[i]);
+        solve(candidates, target - candidates[i], i + 1, list, l);
         l.remove(l.size() - 1);
-        }
-
-        int next = node + 1;
-
-        while(next < candidates.length && candidates[next] == candidates[node]){
-            next++;
-        }
-
-        solve(candidates, target , next, list, l);
+       }
     }
 }
