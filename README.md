@@ -62,6 +62,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/himanshu110011/leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/himanshu110011/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/himanshu110011/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/himanshu110011/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/himanshu110011/leetcode/tree/master/0042-trapping-rain-water) |
@@ -393,6 +394,7 @@
 | [0001-two-sum](https://github.com/himanshu110011/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshu110011/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/himanshu110011/leetcode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/himanshu110011/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/himanshu110011/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/himanshu110011/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/himanshu110011/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -484,6 +486,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/himanshu110011/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/himanshu110011/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/himanshu110011/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/himanshu110011/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -743,6 +746,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/himanshu110011/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/himanshu110011/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/himanshu110011/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/himanshu110011/leetcode/tree/master/0046-permutations) |
@@ -774,6 +778,7 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/himanshu110011/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/himanshu110011/leetcode/tree/master/0051-n-queens) |
 ## Enumeration
 |  |
@@ -807,4 +812,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/himanshu110011/leetcode/tree/master/0207-course-schedule) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/himanshu110011/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
