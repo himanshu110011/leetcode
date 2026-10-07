@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/himanshu110011/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/himanshu110011/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/himanshu110011/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/himanshu110011/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/himanshu110011/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/himanshu110011/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/himanshu110011/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -209,6 +210,7 @@
 | [0042-trapping-rain-water](https://github.com/himanshu110011/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/himanshu110011/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/himanshu110011/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/himanshu110011/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/himanshu110011/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/himanshu110011/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshu110011/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -821,4 +823,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/himanshu110011/leetcode/tree/master/0037-sudoku-solver) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/himanshu110011/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
