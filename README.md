@@ -145,6 +145,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/himanshu110011/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/himanshu110011/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/himanshu110011/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1463-cherry-pickup-ii](https://github.com/himanshu110011/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/himanshu110011/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/himanshu110011/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/himanshu110011/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -239,6 +240,7 @@
 | [1025-divisor-game](https://github.com/himanshu110011/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/himanshu110011/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/himanshu110011/leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1463-cherry-pickup-ii](https://github.com/himanshu110011/leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -515,6 +517,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/himanshu110011/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/himanshu110011/leetcode/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/himanshu110011/leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1463-cherry-pickup-ii](https://github.com/himanshu110011/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/himanshu110011/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/himanshu110011/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1765-map-of-highest-peak](https://github.com/himanshu110011/leetcode/tree/master/1765-map-of-highest-peak) |
