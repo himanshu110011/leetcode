@@ -3,7 +3,7 @@ class Solution {
         int n = grid.length;
         int m = grid[0].length;
         if(j1<0 || j1>=m || j2<0 || j2>=m){
-            return 0;
+            return Integer.MIN_VALUE;
         }
         if(i == n-1){
             if(j1 == j2) return grid[i][j1];
