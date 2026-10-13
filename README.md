@@ -109,6 +109,7 @@
 | [0322-coin-change](https://github.com/himanshu110011/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/himanshu110011/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/himanshu110011/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0416-partition-equal-subset-sum](https://github.com/himanshu110011/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/himanshu110011/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/himanshu110011/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/himanshu110011/leetcode/tree/master/0463-island-perimeter) |
@@ -230,6 +231,7 @@
 | [0322-coin-change](https://github.com/himanshu110011/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/himanshu110011/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/himanshu110011/leetcode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/himanshu110011/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/himanshu110011/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/himanshu110011/leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/himanshu110011/leetcode/tree/master/0518-coin-change-ii) |
@@ -809,6 +811,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/himanshu110011/leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/himanshu110011/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/himanshu110011/leetcode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -841,4 +844,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/himanshu110011/leetcode/tree/master/0062-unique-paths) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/himanshu110011/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
