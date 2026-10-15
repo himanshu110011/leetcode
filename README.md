@@ -152,6 +152,7 @@
 | [1512-number-of-good-pairs](https://github.com/himanshu110011/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/himanshu110011/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/himanshu110011/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1584-min-cost-to-connect-all-points](https://github.com/himanshu110011/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/himanshu110011/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/himanshu110011/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/himanshu110011/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -791,6 +792,7 @@
 | [0200-number-of-islands](https://github.com/himanshu110011/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/himanshu110011/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/himanshu110011/leetcode/tree/master/0684-redundant-connection) |
+| [1584-min-cost-to-connect-all-points](https://github.com/himanshu110011/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/himanshu110011/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -801,6 +803,7 @@
 | [0684-redundant-connection](https://github.com/himanshu110011/leetcode/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/himanshu110011/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/himanshu110011/leetcode/tree/master/0841-keys-and-rooms) |
+| [1584-min-cost-to-connect-all-points](https://github.com/himanshu110011/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/himanshu110011/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Algorithm X
 |  |
@@ -852,4 +855,20 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/himanshu110011/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/himanshu110011/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/himanshu110011/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/himanshu110011/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/himanshu110011/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
