@@ -1,4 +1,3 @@
-
 class Solution {
     public int jump(int[] nums) {
         int jumps = 0;
