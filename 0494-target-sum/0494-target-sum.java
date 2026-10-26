@@ -9,27 +9,21 @@ class Solution {
         
         if(Math.abs(target) > totSum) return 0;
 
-        if((totSum + target) % 2 != 0) return 0;
+        if ((totSum + target) % 2 != 0) return 0;
 
-        int[][] dp = new int[n][(target + totSum) / 2 + 1];
-        for(int[] row : dp){
-            Arrays.fill(row, -1);
-        }
-        
-        return solve(n-1, (target + totSum) / 2, nums, dp);
-    }
-    public int solve(int i, int sum, int[] nums, int[][] dp){
-        if(i<0){
-            if(sum == 0) return 1;
-            else return 0;
-        }
-        if(dp[i][sum] != -1) return dp[i][sum];
-        int notTake = solve(i-1, sum, nums, dp);
+        int sum = (totSum + target) / 2;
 
-        int take= 0;
-        if(nums[i] <= sum){
-            take = solve(i-1, sum-nums[i], nums, dp);
+        int[][] dp = new int[n+1][sum + 1];
+        dp[0][0] = 1;
+
+        for(int i=1; i<n+1; i++){
+            for(int j=0; j<sum+1; j++){
+                dp[i][j] = dp[i-1][j];
+                if(nums[i-1] <= j){
+                    dp[i][j] += dp[i-1][j-nums[i-1]];
+                }
+            }
         }
-        return dp[i][sum] = take + notTake;
+        return dp[n][sum];
     }
 }
