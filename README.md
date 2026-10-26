@@ -115,6 +115,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/himanshu110011/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/himanshu110011/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/himanshu110011/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/himanshu110011/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/himanshu110011/leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/himanshu110011/leetcode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -236,6 +237,7 @@
 | [0392-is-subsequence](https://github.com/himanshu110011/leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/himanshu110011/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/himanshu110011/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/himanshu110011/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/himanshu110011/leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/himanshu110011/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/himanshu110011/leetcode/tree/master/0542-01-matrix) |
@@ -785,6 +787,7 @@
 | [0113-path-sum-ii](https://github.com/himanshu110011/leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/himanshu110011/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/himanshu110011/leetcode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/himanshu110011/leetcode/tree/master/0494-target-sum) |
 ## Impartial Game
 |  |
 | ------- |
@@ -822,6 +825,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/himanshu110011/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/himanshu110011/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/himanshu110011/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/himanshu110011/leetcode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -858,6 +862,7 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/himanshu110011/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/himanshu110011/leetcode/tree/master/0494-target-sum) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
