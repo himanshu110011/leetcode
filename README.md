@@ -42,6 +42,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/himanshu110011/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/himanshu110011/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/himanshu110011/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2376-count-special-integers](https://github.com/himanshu110011/leetcode/tree/master/2376-count-special-integers) |
 | [2413-smallest-even-multiple](https://github.com/himanshu110011/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/himanshu110011/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/himanshu110011/leetcode/tree/master/2469-convert-the-temperature) |
@@ -248,6 +249,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/himanshu110011/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/himanshu110011/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1463-cherry-pickup-ii](https://github.com/himanshu110011/leetcode/tree/master/1463-cherry-pickup-ii) |
+| [2376-count-special-integers](https://github.com/himanshu110011/leetcode/tree/master/2376-count-special-integers) |
 ## Two Pointers
 |  |
 | ------- |
