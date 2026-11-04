@@ -1,34 +1,36 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        int[] dp = new int[amount + 1];
 
-        Arrays.fill(dp, -1);
+        int[][] dp = new int[coins.length][amount + 1];
 
-        int ans = solve(amount, coins, dp);
-
-        if (ans == Integer.MAX_VALUE) {
-            return -1;
+        for(int[] row : dp) {
+            Arrays.fill(row, -1);
         }
 
-        return ans;
+        int ans = solve(coins.length - 1, amount, coins, dp);
+
+        return ans >= 1e9 ? -1 : ans;
     }
-    public int solve(int amount, int[] coins, int[] dp){
-        if(amount == 0) return 0;
 
-        if(amount < 0) return Integer.MAX_VALUE;
-
-        if(dp[amount] != -1) return dp[amount];
-
-        int min = Integer.MAX_VALUE;
-
-        for(int coin : coins){
-            int result = solve(amount - coin, coins, dp);
-
-            if(result != Integer.MAX_VALUE){
-                min = Math.min(min, 1 + result);
+    public int solve(int i, int amount, int[] coins, int[][] dp) {
+        if(i == 0) {
+            if(amount % coins[0] == 0) {
+                return amount / coins[0];
             }
+            return (int)1e9;
         }
-        dp[amount] = min;
-        return dp[amount];
+
+        if(dp[i][amount] != -1) {
+            return dp[i][amount];
+        }
+        int notTake = solve(i - 1, amount, coins, dp);
+
+        int take = (int)1e9;
+
+        if(coins[i] <= amount) {
+            take = 1 + solve(i, amount - coins[i], coins, dp);
+        }
+
+        return dp[i][amount] = Math.min(take, notTake);
     }
 }
