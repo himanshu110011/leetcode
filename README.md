@@ -119,6 +119,7 @@
 | [0494-target-sum](https://github.com/himanshu110011/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/himanshu110011/leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/himanshu110011/leetcode/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/himanshu110011/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanshu110011/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/himanshu110011/leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshu110011/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -241,6 +242,7 @@
 | [0494-target-sum](https://github.com/himanshu110011/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/himanshu110011/leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/himanshu110011/leetcode/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/himanshu110011/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/himanshu110011/leetcode/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/himanshu110011/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/himanshu110011/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -463,6 +465,7 @@
 | [0268-missing-number](https://github.com/himanshu110011/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/himanshu110011/leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/himanshu110011/leetcode/tree/master/0389-find-the-difference) |
+| [0526-beautiful-arrangement](https://github.com/himanshu110011/leetcode/tree/master/0526-beautiful-arrangement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/himanshu110011/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/himanshu110011/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Linked List
@@ -790,6 +793,7 @@
 | [0131-palindrome-partitioning](https://github.com/himanshu110011/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/himanshu110011/leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/himanshu110011/leetcode/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/himanshu110011/leetcode/tree/master/0526-beautiful-arrangement) |
 ## Impartial Game
 |  |
 | ------- |
@@ -881,4 +885,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/himanshu110011/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/himanshu110011/leetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
