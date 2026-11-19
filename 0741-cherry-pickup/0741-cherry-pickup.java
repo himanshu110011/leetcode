@@ -53,7 +53,6 @@ class Solution {
         }
 
         return dp[r1][c1][r2] =
-            cherries + Math.max(Math.max(a, b),
-                                Math.max(c, d));
+            cherries + Math.max(Math.max(a, b), Math.max(c, d));
     }
 }
